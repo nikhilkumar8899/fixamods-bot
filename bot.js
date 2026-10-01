@@ -9,8 +9,8 @@ import http from "http";
 // ═══════════════════════════════════════════════════════════
 //  ⚙️ CONFIG — YAHAN SIRF 2 CHEEZEIN CHANGE KARO
 // ═══════════════════════════════════════════════════════════
-const DB_URL  = "https://shalukachalu-5596d-default-rtdb.firebaseio.com";
-const API_KEY = "fxa_WeUGhFtVFSfmyg7jJTx9qLj8b2TkrCYapT2wUgNF8lcIuuPu";
+const DB_URL  = "https://proxyprojectv5-c2a43-default-rtdb.asia-southeast1.firebasedatabase.app";
+const API_KEY = "fxa_McjuDGEKAPICuQjQp2zvDHytY5Rg91urNGvo8l3PLkV4ETX1";
 const PORT    = process.env.PORT || 3000;
 // ═══════════════════════════════════════════════════════════
 
