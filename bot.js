@@ -10,7 +10,7 @@ import http from "http";
 //  ⚙️ CONFIG — YAHAN SIRF 2 CHEEZEIN CHANGE KARO
 // ═══════════════════════════════════════════════════════════
 const DB_URL  = "https://proxyprojectv5-c2a43-default-rtdb.asia-southeast1.firebasedatabase.app";
-const API_KEY = "fxa_McjuDGEKAPICuQjQp2zvDHytY5Rg91urNGvo8l3PLkV4ETX1";
+const API_KEY = "fxa_8XQQSGoVSNNc6gtx3Lq0RgAddP5z8Ce2Tf50VGjDOTevSNVp";
 const PORT    = process.env.PORT || 3000;
 // ═══════════════════════════════════════════════════════════
 
